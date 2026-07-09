@@ -9,7 +9,7 @@ export const siteConfig: SiteConfig = {
 	title: "Andy Blog",
 
 	// 站点副标题
-	subtitle: "Andy Blog 5678",
+	subtitle: "深度学习笔记",
 
 	// 站点 URL
 	site_url: "https://firefly.cuteleaf.cn",
