@@ -12,7 +12,7 @@ export const profileConfig: ProfileConfig = {
 	name: "Andy",
 
 	// 个人签名
-	bio: "寻找旅途的意义",
+	bio: "寻找旅途的意义。",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
